@@ -31,8 +31,8 @@ importers:
         specifier: 4.0.15
         version: 4.0.15
       '@astrojs/starlight':
-        specifier: 0.37.6
-        version: 0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
+        specifier: 0.38.1
+        version: 0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
       '@biomejs/biome':
         specifier: 2.4.6
         version: 2.4.6
@@ -74,7 +74,7 @@ importers:
         version: 0.1.1
       '@lunariajs/starlight':
         specifier: 0.1.1
-        version: 0.1.1(@astrojs/starlight@0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
+        version: 0.1.1(@astrojs/starlight@0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
       '@playwright/test':
         specifier: 1.58.2
         version: 1.58.2
@@ -155,13 +155,13 @@ importers:
         version: 0.34.5
       starlight-blog:
         specifier: 0.25.3
-        version: 0.25.3(@astrojs/starlight@0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
+        version: 0.25.3(@astrojs/starlight@0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
       starlight-changelogs:
         specifier: 0.4.0
-        version: 0.4.0(@astrojs/starlight@0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
+        version: 0.4.0(@astrojs/starlight@0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
       starlight-links-validator:
         specifier: 0.19.2
-        version: 0.19.2(@astrojs/starlight@0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
+        version: 0.19.2(@astrojs/starlight@0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
       svelte:
         specifier: 5.53.7
         version: 5.53.7
@@ -215,6 +215,9 @@ packages:
   '@astrojs/internal-helpers@0.7.5':
     resolution: {integrity: sha512-vreGnYSSKhAjFJCWAwe/CNhONvoc5lokxtRoZims+0wa3KbHBdPHSSthJsKxPd8d/aic6lWKpRTYGY/hsgK6EA==}
 
+  '@astrojs/internal-helpers@0.8.0':
+    resolution: {integrity: sha512-J56GrhEiV+4dmrGLPNOl2pZjpHXAndWVyiVDYGDuw6MWKpBSEMLdFxHzeM/6sqaknw9M+HFfHZAcvi3OfT3D/w==}
+
   '@astrojs/language-server@2.16.1':
     resolution: {integrity: sha512-OzTpyEPeCPLpp0oyeI/fSCBYemlVos0GewCTYglAW+TAJAMR3nRl5nYlf9ESMFy97SlptZCsRdKlQXDvFHJRNQ==}
     hasBin: true
@@ -230,11 +233,20 @@ packages:
   '@astrojs/markdown-remark@6.3.10':
     resolution: {integrity: sha512-kk4HeYR6AcnzC4QV8iSlOfh+N8TZ3MEStxPyenyCtemqn8IpEATBFMTJcfrNW32dgpt6MY3oCkMM/Tv3/I4G3A==}
 
+  '@astrojs/markdown-remark@7.0.0':
+    resolution: {integrity: sha512-jTAXHPy45L7o1ljH4jYV+ShtOHtyQUa1mGp3a5fJp1soX8lInuTJQ6ihmldHzVM4Q7QptU4SzIDIcKbBJO7sXQ==}
+
   '@astrojs/mdx@4.3.13':
     resolution: {integrity: sha512-IHDHVKz0JfKBy3//52JSiyWv089b7GVSChIXLrlUOoTLWowG3wr2/8hkaEgEyd/vysvNQvGk+QhysXpJW5ve6Q==}
     engines: {node: 18.20.8 || ^20.3.0 || >=22.0.0}
     peerDependencies:
       astro: ^5.0.0
+
+  '@astrojs/mdx@5.0.0':
+    resolution: {integrity: sha512-J4rW6eT+qgVw7+RXdBYO4vYyWGeXXQp8wop9dXsOlLzIsVSxyttMCgkGCWvIR2ogBqKqeYgI6YDW93PaDHkCaA==}
+    engines: {node: ^20.19.1 || >=22.12.0}
+    peerDependencies:
+      astro: ^6.0.0-alpha.0
 
   '@astrojs/netlify@6.6.4':
     resolution: {integrity: sha512-wKLH0hYenuS7UZNE9ag8I9mP094EZzt3OStFWvj+xrlOc9xVP7vYiVvgX5Ua8TkuXnvMWfyy6zEu+1cSIKMx9w==}
@@ -244,6 +256,10 @@ packages:
   '@astrojs/prism@3.3.0':
     resolution: {integrity: sha512-q8VwfU/fDZNoDOf+r7jUnMC2//H2l0TuQ6FkGJL8vD8nw/q5KiL3DS1KKBI3QhI9UQhpJ5dc7AtqfbXWuOgLCQ==}
     engines: {node: 18.20.8 || ^20.3.0 || >=22.0.0}
+
+  '@astrojs/prism@4.0.0':
+    resolution: {integrity: sha512-NndtNPpxaGinRpRytljGBvYHpTOwHycSZ/c+lQi5cHvkqqrHKWdkPEhImlODBNmbuB+vyQUNUDXyjzt66CihJg==}
+    engines: {node: ^20.19.1 || >=22.12.0}
 
   '@astrojs/react@4.4.2':
     resolution: {integrity: sha512-1tl95bpGfuaDMDn8O3x/5Dxii1HPvzjvpL2YTuqOOrQehs60I2DKiDgh1jrKc7G8lv+LQT5H15V6QONQ+9waeQ==}
@@ -257,13 +273,13 @@ packages:
   '@astrojs/rss@4.0.15':
     resolution: {integrity: sha512-uXO/k6AhRkIDXmRoc6xQpoPZrimQNUmS43X4+60yunfuMNHtSRN5e/FiSi7NApcZqmugSMc5+cJi8ovqgO+qIg==}
 
-  '@astrojs/sitemap@3.3.0':
-    resolution: {integrity: sha512-nYE4lKQtk+Kbrw/w0G0TTgT724co0jUsU4tPlHY9au5HmTBKbwiCLwO/15b1/y13aZ4Kr9ZbMeMHlXuwn0ty4Q==}
+  '@astrojs/sitemap@3.7.1':
+    resolution: {integrity: sha512-IzQqdTeskaMX+QDZCzMuJIp8A8C1vgzMBp/NmHNnadepHYNHcxQdGLQZYfkbd2EbRXUfOS+UDIKx8sKg0oWVdw==}
 
-  '@astrojs/starlight@0.37.6':
-    resolution: {integrity: sha512-wQrKwH431q+8FsLBnNQeG+R36TMtEGxTQ2AuiVpcx9APcazvL3n7wVW8mMmYyxX0POjTnxlcWPkdMGR3Yj1L+w==}
+  '@astrojs/starlight@0.38.1':
+    resolution: {integrity: sha512-CATPH4Dy44OYAJhoyUHh6NqpColWEVufanGVwnM0l/bcaNMo5V/rypwL0Vu0Edp+ZIXE7/1DA9CrNj5jmCVSLQ==}
     peerDependencies:
-      astro: ^5.5.0
+      astro: ^6.0.0
 
   '@astrojs/telemetry@3.3.0':
     resolution: {integrity: sha512-UFBgfeldP06qu6khs/yY+q1cDAaArM2/7AEIqQ9Cuvf7B1hNLq0xDrZkct+QoIGyjq56y8IaE2I3CTvG99mlhQ==}
@@ -1097,23 +1113,20 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@expressive-code/core@0.41.6':
-    resolution: {integrity: sha512-FvJQP+hG0jWi/FLBSmvHInDqWR7jNANp9PUDjdMqSshHb0y7sxx3vHuoOr6SgXjWw+MGLqorZyPQ0aAlHEok6g==}
-
   '@expressive-code/core@0.41.7':
     resolution: {integrity: sha512-ck92uZYZ9Wba2zxkiZLsZGi9N54pMSAVdrI9uW3Oo9AtLglD5RmrdTwbYPCT2S/jC36JGB2i+pnQtBm/Ib2+dg==}
 
-  '@expressive-code/plugin-frames@0.41.1':
-    resolution: {integrity: sha512-cwUUWMr2jNpKpgiepEzM9BGnU60WepE5/Ar3H2aOn8IzcDa4Eeuk0JqQB1Vvpo0bu+VRIxaTA2njoAIeQuMN5w==}
+  '@expressive-code/plugin-frames@0.41.7':
+    resolution: {integrity: sha512-diKtxjQw/979cTglRFaMCY/sR6hWF0kSMg8jsKLXaZBSfGS0I/Hoe7Qds3vVEgeoW+GHHQzMcwvgx/MOIXhrTA==}
 
   '@expressive-code/plugin-line-numbers@0.41.7':
     resolution: {integrity: sha512-wI9D5NBcgE9ksiJJV8YfOC0RPI3283+9AYWIb8pBUM5TSM8msIs1YRPDt8c8Ub0XGQvbjJKtB+f9fAl2RiHJ2A==}
 
-  '@expressive-code/plugin-shiki@0.41.1':
-    resolution: {integrity: sha512-xJHk89ECxQpvf7ftTmtEfAKoApYYr5Um7d6fiE6GuY7+WuXN02+ZHH8r5pSJpxlQMfAmavqbNPd3dEJ9v/zHnQ==}
+  '@expressive-code/plugin-shiki@0.41.7':
+    resolution: {integrity: sha512-DL605bLrUOgqTdZ0Ot5MlTaWzppRkzzqzeGEu7ODnHF39IkEBbFdsC7pbl3LbUQ1DFtnfx6rD54k/cdofbW6KQ==}
 
-  '@expressive-code/plugin-text-markers@0.41.1':
-    resolution: {integrity: sha512-PFvk91yY+H8KVEcyZSrktLoWzBgLVpowvMxOJooFn74roGxnU4TEBJpWcRnJFtMEwTLzWNnk10MSOApOccvSKg==}
+  '@expressive-code/plugin-text-markers@0.41.7':
+    resolution: {integrity: sha512-Ewpwuc5t6eFdZmWlFyeuy3e1PTQC0jFvw2Q+2bpcWXbOZhPLsT7+h8lsSIJxb5mS7wZko7cKyQ2RLYDyK6Fpmw==}
 
   '@fastify/accept-negotiator@2.0.1':
     resolution: {integrity: sha512-/c/TW2bO/v9JeEgoD/g1G5GxGeCF1Hafdf79WPmUlgYiBXummY0oX3VVq4yFkKKVBKDNlaDUYoab7g38RpPqCQ==}
@@ -2335,9 +2348,6 @@ packages:
   '@types/nlcst@2.0.3':
     resolution: {integrity: sha512-vSYNSDe6Ix3q+6Z7ri9lyWqgGhJTmzRjZRqyq15N0Z/1/UnVsno9G/N40NBijoYx2seFDIl0+B2mgAb9mezUCA==}
 
-  '@types/node@17.0.45':
-    resolution: {integrity: sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==}
-
   '@types/node@24.12.0':
     resolution: {integrity: sha512-GYDxsZi3ChgmckRT9HPU0WEhKLP08ev/Yfcq2AstjrDASOYCSXeyjDsHg4v5t4jOj7cyDX3vmprafKlWIG9MXQ==}
 
@@ -2543,6 +2553,11 @@ packages:
     engines: {node: '>=0.4.0'}
     hasBin: true
 
+  acorn@8.16.0:
+    resolution: {integrity: sha512-UVJyE9MttOsBQIDKw1skb9nAwQuR5wuGD3+82K6JgJlm/Y+KI92oNsMNGZCYdDsVtRHSak0pcV5Dno5+4jh9sw==}
+    engines: {node: '>=0.4.0'}
+    hasBin: true
+
   agent-base@7.1.3:
     resolution: {integrity: sha512-jRR5wdylq8CkOe6hei19GGZnxM6rBGwFl3Bg0YItGDimvjGtAvdZk4Pu6Cl4u4Igsws4a1fd1Vq3ezrhn4KmFw==}
     engines: {node: '>= 14'}
@@ -2645,10 +2660,10 @@ packages:
     resolution: {integrity: sha512-ISvCdHdlTDlH5IpxQJIex7BWBywFWgjJSVdwst+/iQCoEYnyOaQ95+X1JGshuBjGp6nxKUy1jMgE3zPqN7fQdg==}
     hasBin: true
 
-  astro-expressive-code@0.41.1:
-    resolution: {integrity: sha512-za6HlekMOczwlkuYuQQTd6LkKFwsnfAjwjIprCzOqsjp9vkYrAcriXM5cIG7V1Zxx88sVXF6iGnyNl4J0DL2Mg==}
+  astro-expressive-code@0.41.7:
+    resolution: {integrity: sha512-hUpogGc6DdAd+I7pPXsctyYPRBJDK7Q7d06s4cyP0Vz3OcbziP3FNzN0jZci1BpCvLn9675DvS7B9ctKKX64JQ==}
     peerDependencies:
-      astro: ^4.0.0-beta || ^5.0.0-beta || ^3.3.0
+      astro: ^4.0.0-beta || ^5.0.0-beta || ^3.3.0 || ^6.0.0-beta
 
   astro-og-canvas@0.10.1:
     resolution: {integrity: sha512-cUjsWIOkDBi9Bfkgta1Cr45m2UnTX/jW+tK406SVcD1idhqIHrGD+M5qtwGcJ6OanHeWSgyHGmzQuzELGAwPKg==}
@@ -3529,6 +3544,9 @@ packages:
   es-module-lexer@1.7.0:
     resolution: {integrity: sha512-jEQoCwk8hyb2AZziIOLhDqpm5+2ww5uIE6lkO/6jcOCusfk6LhMHpXXfBLXTZ7Ydyt0j4VoUQv6uGNYbdW+kBA==}
 
+  es-module-lexer@2.0.0:
+    resolution: {integrity: sha512-5POEcUuZybH7IdmGsD8wlf0AI55wMecM9rVBTI/qEAy2c1kTOm3DjFYjrBdI2K3BaJjJYfYFeRtM0t9ssnRuxw==}
+
   es-object-atoms@1.1.1:
     resolution: {integrity: sha512-FGgH2h8zKNim9ljj7dankFPcICIK9Cp5bm+c2gQSYePhpaG5+esrLODihIorn+Pe6FGJzWhXQotPv73jTaldXA==}
     engines: {node: '>= 0.4'}
@@ -3658,8 +3676,8 @@ packages:
     resolution: {integrity: sha512-hIS4idWWai69NezIdRt2xFVofaF4j+6INOpJlVOLDO8zXGpUVEVzIYk12UUi2JzjEzWL3IOAxcTubgz9Po0yXw==}
     engines: {node: '>= 18'}
 
-  expressive-code@0.41.1:
-    resolution: {integrity: sha512-O3+bDWGw+y7b0L3Y3xc7LbPgRTvFy2tqXzYY24TBbDwnHbIwb0OFdS4v+1PpX6NEsF7XsVv9sqY5xo22yWe7Hw==}
+  expressive-code@0.41.7:
+    resolution: {integrity: sha512-2wZjC8OQ3TaVEMcBtYY4Va3lo6J+Ai9jf3d4dbhURMJcU4Pbqe6EcHe424MIZI0VHUA1bR6xdpoHYi3yxokWqA==}
 
   exsolve@1.0.5:
     resolution: {integrity: sha512-pz5dvkYYKQ1AHVrgOzBKWeP4u4FRb3a6DNK2ucr0OoNwYIU4QWsJ+NM36LLzORT+z845MzKHHhpXiUF5nvQoJg==}
@@ -5394,8 +5412,8 @@ packages:
   rehype-autolink-headings@7.1.0:
     resolution: {integrity: sha512-rItO/pSdvnvsP4QRB1pmPiNHUskikqtPojZKJPPPAVx9Hj8i8TwMBhofrrAYRhYOOBZH9tgmG5lPqDLuIWPWmw==}
 
-  rehype-expressive-code@0.41.1:
-    resolution: {integrity: sha512-QApC3js5/AwrF6VqWfGsNY9Y1qLC0LQDWcqOHEAhbl3CB4e5GMor2SpWaGOWBW+mmrkVCEymayLPCPIbx0tcQQ==}
+  rehype-expressive-code@0.41.7:
+    resolution: {integrity: sha512-25f8ZMSF1d9CMscX7Cft0TSQIqdwjce2gDOvQ+d/w0FovsMwrSt3ODP4P3Z7wO1jsIJ4eYyaDRnIR/27bd/EMQ==}
 
   rehype-format@5.0.0:
     resolution: {integrity: sha512-kM4II8krCHmUhxrlvzFSptvaWh280Fr7UGNJU5DCMuvmAwGCNmGfi9CvFAQK6JDjsNoRMWQStglK3zKJH685Wg==}
@@ -5654,10 +5672,9 @@ packages:
   sisteransi@1.0.5:
     resolution: {integrity: sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==}
 
-  sitemap@8.0.0:
-    resolution: {integrity: sha512-+AbdxhM9kJsHtruUF39bwS/B0Fytw6Fr1o4ZAIAEqA6cke2xcoO2GleBw9Zw7nRzILVEgz7zBM5GiTJjie1G9A==}
-    engines: {node: '>=14.0.0', npm: '>=6.0.0'}
-    deprecated: 'SECURITY: Multiple vulnerabilities fixed in 8.0.1 (XML injection, path traversal, command injection, protocol injection). Upgrade immediately: npm install sitemap@8.0.1'
+  sitemap@9.0.1:
+    resolution: {integrity: sha512-S6hzjGJSG3d6if0YoF5kTyeRJvia6FSTBroE5fQ0bu1QNxyJqhhinfUsXi9fH3MgtXODWvwo2BDyQSnhPQ88uQ==}
+    engines: {node: '>=20.19.5', npm: '>=10.8.2'}
     hasBin: true
 
   slashes@3.0.12:
@@ -6069,6 +6086,9 @@ packages:
 
   unist-util-visit@5.0.0:
     resolution: {integrity: sha512-MR04uvD+07cwl/yhVuVWAtw+3GOR/knlL55Nd/wAdblk27GCVt3lqpTivy/tkJcZoNPzTwS1Y+KMojlLDhoTzg==}
+
+  unist-util-visit@5.1.0:
+    resolution: {integrity: sha512-m+vIdyeCOpdr/QeQCu2EzxX/ohgS8KbnPDgFni4dQsfSCtpz8UqDyY5GjRru8PDKuYn7Fq19j1CQ+nJSsGKOzg==}
 
   unixify@1.0.0:
     resolution: {integrity: sha512-6bc58dPYhCMHHuwxldQxO3RRNZ4eCogZ/st++0+fcC1nr0jiGUtAdBJ2qzmLQWSxbtz42pWt4QQMiZ9HvZf5cg==}
@@ -6617,6 +6637,10 @@ snapshots:
 
   '@astrojs/internal-helpers@0.7.5': {}
 
+  '@astrojs/internal-helpers@0.8.0':
+    dependencies:
+      picomatch: 4.0.3
+
   '@astrojs/language-server@2.16.1(prettier@3.8.1)(typescript@5.9.3)':
     dependencies:
       '@astrojs/compiler': 2.13.0
@@ -6668,6 +6692,31 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
+  '@astrojs/markdown-remark@7.0.0':
+    dependencies:
+      '@astrojs/internal-helpers': 0.8.0
+      '@astrojs/prism': 4.0.0
+      github-slugger: 2.0.0
+      hast-util-from-html: 2.0.3
+      hast-util-to-text: 4.0.2
+      js-yaml: 4.1.1
+      mdast-util-definitions: 6.0.0
+      rehype-raw: 7.0.0
+      rehype-stringify: 10.0.1
+      remark-gfm: 4.0.1
+      remark-parse: 11.0.0
+      remark-rehype: 11.1.2
+      remark-smartypants: 3.0.2
+      shiki: 3.23.0
+      smol-toml: 1.6.0
+      unified: 11.0.5
+      unist-util-remove-position: 5.0.0
+      unist-util-visit: 5.1.0
+      unist-util-visit-parents: 6.0.2
+      vfile: 6.0.3
+    transitivePeerDependencies:
+      - supports-color
+
   '@astrojs/mdx@4.3.13(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))':
     dependencies:
       '@astrojs/markdown-remark': 6.3.10
@@ -6683,6 +6732,25 @@ snapshots:
       remark-smartypants: 3.0.2
       source-map: 0.7.6
       unist-util-visit: 5.0.0
+      vfile: 6.0.3
+    transitivePeerDependencies:
+      - supports-color
+
+  '@astrojs/mdx@5.0.0(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))':
+    dependencies:
+      '@astrojs/markdown-remark': 7.0.0
+      '@mdx-js/mdx': 3.1.1
+      acorn: 8.16.0
+      astro: 5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)
+      es-module-lexer: 2.0.0
+      estree-util-visit: 2.0.0
+      hast-util-to-html: 9.0.5
+      piccolore: 0.1.3
+      rehype-raw: 7.0.0
+      remark-gfm: 4.0.1
+      remark-smartypants: 3.0.2
+      source-map: 0.7.6
+      unist-util-visit: 5.1.0
       vfile: 6.0.3
     transitivePeerDependencies:
       - supports-color
@@ -6739,6 +6807,10 @@ snapshots:
     dependencies:
       prismjs: 1.30.0
 
+  '@astrojs/prism@4.0.0':
+    dependencies:
+      prismjs: 1.30.0
+
   '@astrojs/react@4.4.2(@types/node@24.12.0)(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(jiti@2.4.2)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(yaml@2.8.0)':
     dependencies:
       '@types/react': 19.2.14
@@ -6767,23 +6839,23 @@ snapshots:
       fast-xml-parser: 5.3.5
       piccolore: 0.1.3
 
-  '@astrojs/sitemap@3.3.0':
+  '@astrojs/sitemap@3.7.1':
     dependencies:
-      sitemap: 8.0.0
+      sitemap: 9.0.1
       stream-replace-string: 2.0.0
-      zod: 3.25.76
+      zod: 4.3.6
 
-  '@astrojs/starlight@0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))':
+  '@astrojs/starlight@0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))':
     dependencies:
-      '@astrojs/markdown-remark': 6.3.10
-      '@astrojs/mdx': 4.3.13(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
-      '@astrojs/sitemap': 3.3.0
+      '@astrojs/markdown-remark': 7.0.0
+      '@astrojs/mdx': 5.0.0(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
+      '@astrojs/sitemap': 3.7.1
       '@pagefind/default-ui': 1.3.0
       '@types/hast': 3.0.4
       '@types/js-yaml': 4.0.9
       '@types/mdast': 4.0.4
       astro: 5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)
-      astro-expressive-code: 0.41.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
+      astro-expressive-code: 0.41.7(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
       bcp-47: 2.1.0
       hast-util-from-html: 2.0.3
       hast-util-select: 6.0.2
@@ -7570,18 +7642,6 @@ snapshots:
   '@esbuild/win32-x64@0.27.3':
     optional: true
 
-  '@expressive-code/core@0.41.6':
-    dependencies:
-      '@ctrl/tinycolor': 4.1.0
-      hast-util-select: 6.0.2
-      hast-util-to-html: 9.0.5
-      hast-util-to-text: 4.0.2
-      hastscript: 9.0.1
-      postcss: 8.5.8
-      postcss-nested: 6.0.1(postcss@8.5.8)
-      unist-util-visit: 5.0.0
-      unist-util-visit-parents: 6.0.2
-
   '@expressive-code/core@0.41.7':
     dependencies:
       '@ctrl/tinycolor': 4.1.0
@@ -7594,22 +7654,22 @@ snapshots:
       unist-util-visit: 5.0.0
       unist-util-visit-parents: 6.0.2
 
-  '@expressive-code/plugin-frames@0.41.1':
+  '@expressive-code/plugin-frames@0.41.7':
     dependencies:
-      '@expressive-code/core': 0.41.6
+      '@expressive-code/core': 0.41.7
 
   '@expressive-code/plugin-line-numbers@0.41.7':
     dependencies:
       '@expressive-code/core': 0.41.7
 
-  '@expressive-code/plugin-shiki@0.41.1':
+  '@expressive-code/plugin-shiki@0.41.7':
     dependencies:
-      '@expressive-code/core': 0.41.6
+      '@expressive-code/core': 0.41.7
       shiki: 3.23.0
 
-  '@expressive-code/plugin-text-markers@0.41.1':
+  '@expressive-code/plugin-text-markers@0.41.7':
     dependencies:
-      '@expressive-code/core': 0.41.6
+      '@expressive-code/core': 0.41.7
 
   '@fastify/accept-negotiator@2.0.1': {}
 
@@ -7829,9 +7889,9 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@lunariajs/starlight@0.1.1(@astrojs/starlight@0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))':
+  '@lunariajs/starlight@0.1.1(@astrojs/starlight@0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))':
     dependencies:
-      '@astrojs/starlight': 0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
+      '@astrojs/starlight': 0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
       '@lunariajs/core': 0.1.1
       astro: 5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)
     transitivePeerDependencies:
@@ -8989,8 +9049,6 @@ snapshots:
     dependencies:
       '@types/unist': 3.0.2
 
-  '@types/node@17.0.45': {}
-
   '@types/node@24.12.0':
     dependencies:
       undici-types: 7.16.0
@@ -9289,6 +9347,8 @@ snapshots:
 
   acorn@8.15.0: {}
 
+  acorn@8.16.0: {}
+
   agent-base@7.1.3: {}
 
   ajv-draft-04@1.0.0(ajv@8.17.1):
@@ -9377,10 +9437,10 @@ snapshots:
 
   astring@1.8.6: {}
 
-  astro-expressive-code@0.41.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)):
+  astro-expressive-code@0.41.7(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)):
     dependencies:
       astro: 5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)
-      rehype-expressive-code: 0.41.1
+      rehype-expressive-code: 0.41.7
 
   astro-og-canvas@0.10.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)):
     dependencies:
@@ -10355,6 +10415,8 @@ snapshots:
 
   es-module-lexer@1.7.0: {}
 
+  es-module-lexer@2.0.0: {}
+
   es-object-atoms@1.1.1:
     dependencies:
       es-errors: 1.3.0
@@ -10589,12 +10651,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  expressive-code@0.41.1:
+  expressive-code@0.41.7:
     dependencies:
-      '@expressive-code/core': 0.41.6
-      '@expressive-code/plugin-frames': 0.41.1
-      '@expressive-code/plugin-shiki': 0.41.1
-      '@expressive-code/plugin-text-markers': 0.41.1
+      '@expressive-code/core': 0.41.7
+      '@expressive-code/plugin-frames': 0.41.7
+      '@expressive-code/plugin-shiki': 0.41.7
+      '@expressive-code/plugin-text-markers': 0.41.7
 
   exsolve@1.0.5: {}
 
@@ -12818,9 +12880,9 @@ snapshots:
       unified: 11.0.5
       unist-util-visit: 5.0.0
 
-  rehype-expressive-code@0.41.1:
+  rehype-expressive-code@0.41.7:
     dependencies:
-      expressive-code: 0.41.1
+      expressive-code: 0.41.7
 
   rehype-format@5.0.0:
     dependencies:
@@ -13282,9 +13344,9 @@ snapshots:
 
   sisteransi@1.0.5: {}
 
-  sitemap@8.0.0:
+  sitemap@9.0.1:
     dependencies:
-      '@types/node': 17.0.45
+      '@types/node': 24.12.0
       '@types/sax': 1.2.7
       arg: 5.0.2
       sax: 1.4.1
@@ -13339,12 +13401,12 @@ snapshots:
 
   stack-trace@0.0.10: {}
 
-  starlight-blog@0.25.3(@astrojs/starlight@0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)):
+  starlight-blog@0.25.3(@astrojs/starlight@0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)):
     dependencies:
       '@astrojs/markdown-remark': 6.3.10
       '@astrojs/mdx': 4.3.13(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
       '@astrojs/rss': 4.0.15
-      '@astrojs/starlight': 0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
+      '@astrojs/starlight': 0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
       astro-remote: 0.3.4
       github-slugger: 2.0.0
       hast-util-from-html: 2.0.3
@@ -13360,10 +13422,10 @@ snapshots:
       - astro
       - supports-color
 
-  starlight-changelogs@0.4.0(@astrojs/starlight@0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)):
+  starlight-changelogs@0.4.0(@astrojs/starlight@0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)):
     dependencies:
       '@ascorbic/loader-utils': 1.0.2(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
-      '@astrojs/starlight': 0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
+      '@astrojs/starlight': 0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
       github-slugger: 2.0.0
       mdast-util-from-markdown: 2.0.2
       mdast-util-to-markdown: 2.1.2
@@ -13373,9 +13435,9 @@ snapshots:
       - astro
       - supports-color
 
-  starlight-links-validator@0.19.2(@astrojs/starlight@0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)):
+  starlight-links-validator@0.19.2(@astrojs/starlight@0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)))(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)):
     dependencies:
-      '@astrojs/starlight': 0.37.6(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
+      '@astrojs/starlight': 0.38.1(astro@5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0))
       '@types/picomatch': 3.0.2
       astro: 5.16.15(@netlify/blobs@10.6.0)(@types/node@24.12.0)(jiti@2.4.2)(rollup@4.57.1)(sass@1.77.8)(sugarss@5.0.0(postcss@8.5.8))(typescript@5.9.3)(yaml@2.8.0)
       github-slugger: 2.0.0
@@ -13801,6 +13863,12 @@ snapshots:
       unist-util-visit-parents: 3.1.1
 
   unist-util-visit@5.0.0:
+    dependencies:
+      '@types/unist': 3.0.2
+      unist-util-is: 6.0.0
+      unist-util-visit-parents: 6.0.2
+
+  unist-util-visit@5.1.0:
     dependencies:
       '@types/unist': 3.0.2
       unist-util-is: 6.0.0
